@@ -1,6 +1,4 @@
-public:: true
-
-- # Kanade
+# Kanade
 - [[Noche de rol]]
 - [[visible]]
 - [[private]]
