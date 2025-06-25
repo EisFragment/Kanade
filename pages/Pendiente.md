@@ -1,3 +1,5 @@
+public:: true
+
 - [[2025-06-27]]
   [[Scuttle Worth]] y [[Bosque de los shamanes y dragones]]
   [[Clint]], [[Vittorio Casano]], [[Syeriy Jut]], [[Gawain]] y [[Tartarus]] 

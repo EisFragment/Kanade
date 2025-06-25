@@ -1,3 +1,5 @@
+public:: true
+
 - [[2024_04_24]]
   [[Tijuana]] 
   [[Clint]], [[Vittorio Casano]] y [[Zalle Malli]]

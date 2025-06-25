@@ -1,3 +1,5 @@
+public:: true
+
 - [[2025_06_13]]
   [[Scuttle Worth]]
   [[Clint]], [[Vittorio Casano]], [[Syeriy Jut]] y [[Tartarus]]

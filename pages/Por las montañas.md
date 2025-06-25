@@ -1,3 +1,5 @@
+public:: true
+
 - [[2025_05_09]]
   [[Anauroch]]
   [[Clint]], [[Vittorio Casano]] y [[Syeriy Jut]]

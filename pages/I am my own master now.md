@@ -1,3 +1,5 @@
+public:: true
+
 - [[2025_05_02]]
   [[Tijuana]], [[Anauroch]]
   [[Clint]], [[Vittorio Casano]] y [[Syeriy Jut]]

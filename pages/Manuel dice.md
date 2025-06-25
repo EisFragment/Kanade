@@ -1,3 +1,5 @@
+public:: true
+
 - [[2025_04_25]]
   [[Tijuana]]
   [[Clint]], [[Vittorio Casano]] y [[Syeriy Jut]]

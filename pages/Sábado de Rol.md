@@ -1,3 +1,5 @@
+public:: true
+
 - [[2025_04_12]]
   [[Tijuana]]
   [[Clint]], [[Vittorio Casano]] y [[Syeriy Jut]]
@@ -7,7 +9,7 @@
 - # Taciturno
 - [[Vittorio Casano|Vittorio]] llevó a la biblioteca a [[Marin Erito|Marinerito]], [[Clint]] fue con la doctora [[Sasha Figueroa|Sasha]], a la vivienda del [[Dr. House]]. [[Syeriy Jut|Syeriy]] se fue de alcohólico a [[Tijuana#**Daisy Dinner**|Daisy Dinner]] y luego al casino.
 - > [!success] Casino
-  > Tuvo una racha y ganó <font color="#ffff00">112,300 GP</font>.
+  > Tuvo una racha y ganó 112,300 GP.
   > Firmó contrato misterioso de [[Sol]].
   > Le debe sangre de [[Jayden Bright|Jayden]] a [[Sol]].
 - > [!warning] Perspectiva de [[Clint]]

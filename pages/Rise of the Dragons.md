@@ -1,3 +1,5 @@
+public:: true
+
 -
 - ## Journal
   id:: 685b8792-fff8-4488-82b9-efe4c725ee95

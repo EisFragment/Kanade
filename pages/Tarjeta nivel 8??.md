@@ -1,3 +1,5 @@
+public:: true
+
 - [[2025_02_07]]
   [[Base Lunar]]
   [[Clint]], [[Vittorio Casano]] y [[Zalle Malli]]

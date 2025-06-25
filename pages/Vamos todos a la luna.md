@@ -1,3 +1,5 @@
+public:: true
+
 - [[2025_01_25]]
   [[Bosque de Oneisita]] y [[Base Lunar]]
   [[Clint]], [[Vittorio Casano]] y [[Zalle Malli]]
