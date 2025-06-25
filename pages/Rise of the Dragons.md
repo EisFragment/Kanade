@@ -1,6 +1,7 @@
 public:: true
 
--
+- Bla bla bla, cosas.
+- [Foundry - Rise of the Dragons](http://really-nowhere.gl.at.ply.gg:16595/join)
 - ## Journal
   id:: 685b8792-fff8-4488-82b9-efe4c725ee95
 	- [[Las fantásticas aventuras de Pedrin y sus amigos: Los inicios]]
