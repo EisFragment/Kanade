@@ -1,42 +1,17 @@
-name: Build & Publish Logseq SPA
-
-on:
-  push:
-    branches:
-      - main
+on: [push]
 
 permissions:
-  contents: read        # we only need to read your source
-  pages: write          # permission to publish to GitHub Pages
-  id-token: write       # needed by deploy-pages
-
+  contents: write
 jobs:
-  build-and-deploy:
+  test:
     runs-on: ubuntu-latest
-
+    name: Publish Logseq graph
     steps:
-      # 1) Check out your repository
       - uses: actions/checkout@v4
-
-      # 2) Build the Logseq SPA into ./www
-      - name: Build Logseq SPA
-        uses: logseq/publish-spa@v0.3.1
+      - uses: logseq/publish-spa@v0.3.0
+      - name: Add a nojekyll file # to make sure asset paths are correctly identified
+        run: touch $GITHUB_WORKSPACE/www/.nojekyll
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          graph-directory: .
-          output-directory: www
-          version: 0.10.6
-
-      # 3) Prevent Jekyll from messing with files
-      - name: Add .nojekyll
-        run: touch www/.nojekyll
-
-      # 4) Tell GitHub “we’re about to push a Pages site”
-      - uses: actions/configure-pages@v3
-
-      # 5) Upload the compiled site (uses the new Pages artifact action)
-      - uses: actions/upload-pages-artifact@v2
-        with:
-          path: www
-
-      # 6) Deploy the artifact to GitHub Pages
-      - uses: actions/deploy-pages@v1
+          folder: www
