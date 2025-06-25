@@ -15,3 +15,5 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: www
+          theme-mode: dark
+          accent-color: teal
