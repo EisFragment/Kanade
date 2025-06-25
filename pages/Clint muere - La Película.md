@@ -1,0 +1,11 @@
+- [[2025_04_04]]
+  [[Tijuana]]
+  [[Clint]], [[Vittorio Casano]] y [[Syeriy Jut]]
+  [Anterior noche de rol]([[El regreso de Bu-Ho]])
+  [Siguiente noche de rol]([[Sábado de Rol]])
+  ---
+- # Desayuno
+  Después de que [[Everest]] aplicara el *Indigo* dijo, “Parece que encontrarás problemas en el discurso.” y me dió una granada.
+- Después de que [[Viktor Magiya|Viktor]] decidiera que a su pecho le faltaban vías de ventilación, comenzó el enfrentamiento con unos disparos de parte de [[Vittorio Casano|Vittorio]], seguidos de unos disparos de los atacantes. Al final perdimos la batalla, pero no la guerra porque llegaron refuerzos y masacraron a todos. MVP [[Helen Park]].
+- Nos fuimos todos de fiesta con [[Elandor Casano|Elandor]] y [[Clint]], el cual huyó, llamó diciendo que [[Elandor Casano|Elandor]] planeó todo y que se llevó los cuerpos, nos cagamos todos de risa. [[Elandor Casano|Elandor]] se llevó a [[Vittorio Casano|Vittorio]] por separado para hablar con el. Durante ese tiempo [[Syeriy Jut|Syeriy]] habló con [[Viktor Magiya|Viktor]] y el dijo que esto necesita hacer y que apoyará la causa con todo su ser.
+- # Termina la noche de rol

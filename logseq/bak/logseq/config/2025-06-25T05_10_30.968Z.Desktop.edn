@@ -420,5 +420,4 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :publishing/all-pages-public? false
- :graph/settings {:journal? true}
- :ui/show-brackets? false}
+ :graph/settings {:journal? true}}
