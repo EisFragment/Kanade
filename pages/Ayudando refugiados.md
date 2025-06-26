@@ -20,6 +20,6 @@ public:: true
 	- Un vial morado que te hace sentirte sano
 	- Cosas de Pedrin 💲
 - Hice un trato con [[El Blanco]] para introducir a un tabaxi, [[Bobby]] dice llamarse, a los tabaxi de las afueras. Vamos y después preguntamos por [[Ryn]], un aparente héroe de tabaxis en [[Everfrost]]. Le ofrecí formar un negocio de producción de hongos.
-- Pasa una semana en la cual hacemos cosas varias, [[Zalle Malli|Zalle]] hace unas garras y saca a los niños a pasear.
-- Llega [[Zósimo De Malli|Zósimo]], sale de  su traje robotico [[C-3]], bien cool, conoce a su [[Fred|nieto]] y a su otro [[Marin Erito|nieto]], van al hospital y determina [[Zósimo De Malli|Zósimo]] que la paciente no irá a ningún lado, [[Zalle Malli|Zalle]] se acobarda y da pie a la decisión, pero dice de informarle a [[Syeriy Jut|Syeriy]], quien se enoja y se empieza a pelear verbalmente.
+- Pasa una semana en la cual hacemos cosas varias, [Zalle]([[Zalle Malli]]) hace unas garras y saca a los niños a pasear.
+- Llega [Zósimo]([[Zósimo De Malli]]), sale de  su traje robotico [[C-3]], bien cool, conoce a su [nieto]([[Fred]]) y a su otro [nieto]([[Marin Erito]]), van al hospital y determina [Zósimo]([[Zósimo De Malli]]) que la paciente no irá a ningún lado, [Zalle]([[Zalle Malli]]) se acobarda y da pie a la decisión, pero dice de informarle a [Syeriy]([[Syeriy Jut]]), quien se enoja y comienza a pelearse verbalmente.
 - # Termina la noche de rol

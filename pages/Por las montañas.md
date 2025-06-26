@@ -8,5 +8,5 @@ public:: true
   ---
 - # Peleoneros
 - Vencimos al gusano de arena y comimos carne de gusano, después fuimos por las montañas.
-- Sol consigue su sangre del hospital.
+- [[Sol]] consigue su sangre del hospital.
 - # Termina la noche de rol

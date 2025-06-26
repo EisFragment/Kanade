@@ -1,10 +1,16 @@
 public:: true
 
-- Esta semana México
+- Presumiblemente la primer noche de rol de nuestra campaña ocurrió un [26 de Mayo del 2023]([[2023_05_26]]).
+-
+-
 - [Foundry - Rise of the Dragons](http://really-nowhere.gl.at.ply.gg:16595/join)
 - ## Journal
   id:: 685b8792-fff8-4488-82b9-efe4c725ee95
+	- [[Desde el inicio hasta antes del 25 de enero]]
+	- [[Sesión 25 de enero]]
+	- [[Desde después del 25 de enero hasta el 24 de abril]]
 	- [[Las fantásticas aventuras de Pedrin y sus amigos: Los inicios]]
+	- [[Desde el 24 de abril hasta "Vamos todos a la luna"]]
 	- [[Vamos todos a la luna]]
 	- [[La Muerte de Zalle Malli]]
 	- [[Tarjeta nivel 8??]]
