@@ -1,6 +1,6 @@
 public:: true
 
-- Presumiblemente la primer noche de rol de nuestra campaña ocurrió un [26 de Mayo del 2023]([[2023_05_26]]).
+- Presumiblemente la primer noche de rol de nuestra campaña ocurrió el [26 de Mayo del 2023]([[2023_05_26]]).
 -
 -
 - [Foundry - Rise of the Dragons](http://really-nowhere.gl.at.ply.gg:16595/join)
