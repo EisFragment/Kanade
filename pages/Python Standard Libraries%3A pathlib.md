@@ -1,0 +1,22 @@
+- What does the Python `pathlib` library do? #card
+	- It makes working with file and folder paths easier and more intuitive.
+- How do you import the `Path` class from `pathlib`? #card
+	- `from pathlib import Path`
+- How do you create a `Path` object for a file called "notes.txt"? #card
+	- `path = Path("notes.txt")`
+- How do you check if "notes.txt" exists? #card
+	- `Path("notes.txt").exists()`
+- How do you read the text content of "notes.txt"? #card
+	- `Path("notes.txt").read_text()`
+- How do you write "Hello!" to a file called "greeting.txt"? #card
+	- `Path("greeting.txt").write_text("Hello!")`
+- How do you get the current working directory using `pathlib`? #card
+	- `Path.cwd()`
+- How do you get the user's home directory using `pathlib`? #card
+	- `Path.home()`
+- How do you join "folder" and "file.txt" into a single path? #card
+	- `Path("folder") / "file.txt"`
+- How do you get the file name and extension from "report.pdf"? #card
+	- `Path("report.pdf").name` and `Path("report.pdf").suffix`
+- How do you list all files in the current directory using `pathlib`? #card
+	- `list(Path(".").iterdir())`

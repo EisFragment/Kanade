@@ -1,0 +1,36 @@
+- What does the Python `os` library do? #card
+	- It lets you interact with the operating system, like working with files, folders, and environment variables.
+- How do you import the `os` library in Python? #card
+	- `import os`
+- How do you list all files and folders in the current directory? #card
+	- `os.listdir(".")`
+- How do you get the current working directory? #card
+	- `os.getcwd()`
+- How do you create a new folder called "photos"? #card
+	- `os.mkdir("photos")`
+- How do you remove an empty folder called "photos"? #card
+	- `os.rmdir("photos")`
+- How do you see all environment variables? #card
+	- `os.environ`
+- How do you get the value of the PATH environment variable? #card
+	- `os.getenv("PATH")`
+- How do you set a new environment variable called "FAVORITE_COLOR"? #card
+	- `os.environ["FAVORITE_COLOR"] = "blue"`
+- How do you get the current user's name? #card
+	- `os.getlogin()`
+- How do you get the name of the operating system? #card
+	- `os.uname().sysname`
+- How do you rename a file from "cat.jpg" to "dog.jpg"? #card
+	- `os.rename("cat.jpg", "dog.jpg")`
+- How do you delete a file called "notes.txt"? #card
+	- `os.remove("notes.txt")`
+- How do you run a system command, like listing files? #card
+	- `os.system("ls")`
+- How do you get info about a file called "report.pdf"? #card
+	- `os.stat("report.pdf")`
+- How do you create folders "music/rock/classics" all at once? #card
+	- `os.makedirs("music/rock/classics")`
+- How do you check if "resume.docx" is a file? #card
+	- `os.path.isfile("resume.docx")`
+- How do you check if "documents" is a folder? #card
+	- `os.path.isdir("documents")`

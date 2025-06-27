@@ -1,0 +1,20 @@
+- What does the Python `shutil` library do? #card
+	- It provides high-level functions to copy, move, and delete files and folders.
+- How do you import the `shutil` library in Python? #card
+	- `import shutil`
+- How do you copy a file called "photo.jpg" to "backup_photo.jpg"? #card
+	- `shutil.copy("photo.jpg", "backup_photo.jpg")`
+- How do you copy a folder called "music" to "music_backup"? #card
+	- `shutil.copytree("music", "music_backup")`
+- How do you move a file called "notes.txt" to a folder called "documents"? #card
+	- `shutil.move("notes.txt", "documents")`
+- How do you delete a file called "old.txt"? #card
+	- `os.remove("old.txt")`
+- How do you delete a folder called "temp_folder" and all its contents? #card
+	- `shutil.rmtree("temp_folder")`
+- How do you get the disk usage of the root directory? #card
+	- `shutil.disk_usage("/")`
+- How do you make an archive (zip) of a folder called "project"? #card
+	- `shutil.make_archive("project_backup", "zip", "project")`
+- How do you unpack a zip archive called "project_backup.zip" to a folder called "restore"? #card
+	- `shutil.unpack_archive("project_backup.zip", "restore")`
