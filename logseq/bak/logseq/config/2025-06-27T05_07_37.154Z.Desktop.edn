@@ -423,8 +423,5 @@
  :graph/settings {:journal? true
  :orphan-pages? true
  :builtin-pages? false
- :excluded-pages? true}
- :ui/show-brackets? false
- :graph/forcesettings {:link-dist 180
- :charge-strength -1000
- :charge-range 4000}}
+ :excluded-pages? false}
+ :ui/show-brackets? false}
