@@ -1,0 +1,2 @@
+- `eval "$(/home/Nayu/Documents/Projects/Code/Python/Conda/anaconda3/bin/conda shell.fish hook)"`
+-
