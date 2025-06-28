@@ -1,3 +1,1 @@
-- ![Elliot Witt - El peligro de Tijuana](https://drive.google.com/file/d/1vaAl7oHuoEXWMRVlpuEoCZYibaCczPlv)
--
--
+- ![Elliot Witt - El peligro de Tijuana](https://cdn.imgchest.com/files/yxkcz28rop7.png)
