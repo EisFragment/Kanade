@@ -15,8 +15,8 @@ public:: true
 - Al volver al templo encuentran el *templo*  abierto, en una de las paredes vemos una nota, esta decía: "[Luz]([[Luz Sunniva]]) vió el tiemplo y corrió hacia el, no la pude detener. -Pedrin".
 - Decidimos entrar con precaución, abrirlo fue muy fácil como para que no lo hubieran hecho antes. [Gustavo]([[Jon Snow]]) y [Six] se quedaron a hacer guardia.
 - Cuando íbamos entrando recordamos que ninguno ha descansado, y tenemos un [reloj curioso]([[Stopwatch]]), con el cual podemos descansar rápido, volvemos y descansamos todos juntos.
-- Caminando por el interior del templo encontramos muchos grabados *draconicos*, habia imagenes de []([[Tiamat]])
--
+- Caminando por el interior del templo encontramos muchos grabados *draconicos*, había murales de [[Tiamat]] y **otros dragones**.
+- Hace  mucho tiempo en el amanecer de este mundo, dos hermanos pelearon mano a mano, lucharon y vencieron -----, el mundo vivió una era de paz bajo el mando de los dragones.
 -
 -
 -
