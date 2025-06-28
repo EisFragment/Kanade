@@ -19,7 +19,7 @@ public:: true
 - "Hace mucho tiempo en el amanecer de este mundo. Dos hermanos pelearon mano a mano. Unidos, vencieron y sellaron a --------. El mundo vivió una era de paz bajo el mando de los dragones. -----------------------------. -----------------------------." Logró traducir [[Clint]].
 - Más adelante nos encontramos con el resto, estaban en una puerta cerrada, la cual está cerrada hasta que derrotemos al guardian.
 - [[Everest]] se no quiso participar (se fué), [[Pedrin]] y [Syeriy]([[Syeriy Jut]]) están indispuestos.
-- Cuando [[Clint]] estaba por leer
+- Cuando [[Clint]] estaba por leer la invocación del guardian cuando se escuchó un gran ruido en la puerta, [Sy]([[Syeriy Jut]])
 -
 -
 -
