@@ -24,6 +24,7 @@ public:: true
 - [[Clint]] dice conocerla y ella conoce a [[Sam]], así que se quedó en el equipo, tampoco tenia muchas alternativas.
 - Todos se ponen en posición, [[Clint]] recita las palabras, estas invocan un **dracolich**.
 - El **dracolich** usó **3** resistencias legendarias y más cosas para aguantar, mató a más de la mitad.
+- [[Clint]] revive, con su único *scroll*, a [Syeriy]([[Syeriy Jut]]),
 -
 -
 -
