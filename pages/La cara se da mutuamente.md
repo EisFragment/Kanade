@@ -16,7 +16,8 @@ public:: true
 - Decidimos entrar con precaución, abrirlo fue muy fácil como para que no lo hubieran hecho antes. [Gustavo]([[Jon Snow]]) y [Six] se quedaron a hacer guardia.
 - Cuando íbamos entrando recordamos que ninguno ha descansado, y tenemos un [reloj curioso]([[Stopwatch]]), con el cual podemos descansar rápido, volvemos y descansamos todos juntos.
 - Caminando por el interior del templo encontramos muchos grabados *draconicos*, había murales de [[Tiamat]] y **otros dragones**.
-- Hace mucho tiempo en el amanecer de este mundo. Dos hermanos pelearon mano a mano. Unidos, vencieron y sellaron a --------. El mundo vivió una era de paz bajo el mando de los dragones. -----------------------------. -----------------------------. Tradujo
+- "Hace mucho tiempo en el amanecer de este mundo. Dos hermanos pelearon mano a mano. Unidos, vencieron y sellaron a --------. El mundo vivió una era de paz bajo el mando de los dragones. -----------------------------. -----------------------------." Logró traducir [[Clint]].
+-
 -
 -
 -
