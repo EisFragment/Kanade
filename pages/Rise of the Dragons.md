@@ -31,5 +31,5 @@ public:: true
 	- [[Dragon de arena]]
 	- [[Pendiente]]
 - ## Extras
+	- [[Elliot Witt - El peligro de Tijuana]]
 	-
-		- /home/Nayu/Documents/PDF/Elliot - Tijuana Citas.pdf
