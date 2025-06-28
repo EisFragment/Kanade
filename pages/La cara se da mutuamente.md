@@ -11,6 +11,6 @@ public:: true
 - [[Clint]] crea un increíble plan, el cual decidimos realizar.
 - Todo funcionó y una estatua de las dos del templo se encendió, la estatua de *fuego azul* se volvió de *fuego morado*.
 - [Vittorio]([[Vittorio Casano]]) y [Syeriy]([[Syeriy Jut]]) empiezan a experimentar con el *fuego morado* y este encanta ~~y quema~~ sus cosas.
--
+- Llegan [[Six]] y [Gustavo]([[Jon Snow]])
 -
 - # Termina la noche de rol
