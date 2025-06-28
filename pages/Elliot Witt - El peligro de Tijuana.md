@@ -1,2 +1,3 @@
-- ![Elliot Witt - El peligro de Tijuana](Img/Elliot%20Witt%20-%20El%20peligro%20de%20Tijuana.png)
+- ![Elliot Witt - El peligro de Tijuana](https://drive.google.com/file/d/1vaAl7oHuoEXWMRVlpuEoCZYibaCczPlv)
+-
 -
