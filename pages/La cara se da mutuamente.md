@@ -31,5 +31,6 @@ public:: true
 - Los chicos de la entrada y [[Tartarus]], este ultimo llega a preguntarle por la situación a [Syeriy]([[Syeriy Jut]]), él lo ignora.
 - [[Everest]] le lleva ropa a [Syeriy]([[Syeriy Jut]]), muy parecida a la que llevaba [Vittorio]([[Vittorio Casano]]), él agradece y se la pone. Se le nota muy decaido.
 - [[Clint]] repara a [[Wall-E]], este regresa igual de alegre que siempre.
+- Todos se curan y la mayoría se pone a descansar, [[Jon Snow]] se ve preocupado.
 -
 - # Termina la noche de rol
