@@ -29,7 +29,7 @@ public:: true
 	- [["Gawain"]]
 	- [[Por qué me hace estas preguntas?]]
 	- [[Dragon de arena]]
-	- [[Pendiente]]
+	- [[La cara se da mutuamente]]
 - ## Extras
 	- [[Elliot Witt - El peligro de Tijuana]]
 	-

@@ -4,7 +4,7 @@ public:: true
   [[Scuttle Worth]] y [[Bosque de los shamanes y dragones]]
   [[Clint]], [[Vittorio Casano]], [[Syeriy Jut]], [[Gawain]] y [[Tartarus]] 
   [Anterior noche de rol]([[Por qué me hace estas preguntas?]])
-  [Siguiente noche de rol]([[Pendiente]])
+  [Siguiente noche de rol]([[La cara se da mutuamente]])
   ---
 - # Noche(?)
 - Batalla larga contra dragon de veneno adulto, [Syeriy]([[Syeriy Jut]]) se tomó el resto del indigo y ganó poderes gracias a eso.
