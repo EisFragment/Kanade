@@ -2,6 +2,11 @@ public:: true
 
 - Presumiblemente la primer noche de rol de nuestra campaña ocurrió el [26 de Mayo del 2023]([[2023_05_26]]).
 -
+- ## Recordarle al gub
+	- LATER Flauta
+	- LATER Paruns sword encantada
+	- LATER Guantes encantados
+	-
 -
 - [Foundry - Rise of the Dragons](http://really-nowhere.gl.at.ply.gg:16595/join)
 - ## Journal
