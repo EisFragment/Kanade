@@ -6,5 +6,6 @@ public:: true
   [Anterior noche de rol]([[Dragon de arena]])
   [Siguiente noche de rol]([[]])
   ---
-- # Momento
+- # Niebla
+- Nos
 - # Termina la noche de rol
