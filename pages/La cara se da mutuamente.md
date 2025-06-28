@@ -33,5 +33,6 @@ public:: true
 - [[Clint]] repara a [[Wall-E]], este regresa igual de alegre que siempre.
 - Todos se curan y la mayoría se pone a descansar, [[Jon Snow]] se ve preocupado.
 - [La halfling]([[Harley]]) llega y empieza a cuestionarnos sobre que sacamos de la bóveda, nos pregunta si sacamos un *anillo*, nadie logró mentir.
-- [Syeriy]([[Syeriy Jut]]) se avienta un discurso, este convence a [[Harley]], la cual dice que las [[Alas de Fuego]] ayudarán a derrotar a [[Tiamat]], a cambio ellos ayudarán a las .
+- [Syeriy]([[Syeriy Jut]]) se avienta un discurso, este convence a [[Harley]], la cual dice que las [[Alas de Fuego]] ayudarán a derrotar a [[Tiamat]], a cambio ellos ayudarán a las [[Alas de Fuego]] a liberar a [[Cormyr]].
+- Al volver a su campamento vemos *ba
 - # Termina la noche de rol
