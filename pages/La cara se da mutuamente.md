@@ -7,5 +7,5 @@ public:: true
   [Siguiente noche de rol]([[]])
   ---
 - # Niebla
-- Entre la niebla vemos varias estatuas, una destaca entre las demás, esta tenia un dragón y una flama azul.
+- Entre la niebla vemos varias estatuas, una destaca entre las demás, esta tenia un dragón y una flama azul. Al acercarnos vemos un
 - # Termina la noche de rol
