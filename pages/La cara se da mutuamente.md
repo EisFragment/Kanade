@@ -30,5 +30,6 @@ public:: true
 - Gritando *¡Yeehaw!* llega a revivirla, ella despierta y comienza a preguntar por anillo (lo de siempre con esa loquita).
 - Los chicos de la entrada y [[Tartarus]], este ultimo llega a preguntarle por la situación a [Syeriy]([[Syeriy Jut]]), él lo ignora.
 - [[Everest]] le lleva ropa a [Syeriy]([[Syeriy Jut]]), muy parecida a la que llevaba [Vittorio]([[Vittorio Casano]]), él agradece y se la pone. Se le nota muy decaido.
-- [[Clint]] repara a
+- [[Clint]] repara a [[Wall-E]], este regresa igual de alegre que siempre.
+-
 - # Termina la noche de rol
