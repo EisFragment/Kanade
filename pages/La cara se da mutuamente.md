@@ -8,6 +8,6 @@ public:: true
   ---
 - # Niebla
 - Entre la niebla vemos varias estatuas, una destaca entre las demás, esta tenia un dragón y una flama azul. Al acercarnos vemos una placa que dice `Comparte el fuego. Comparte la llama.`, aunque solo [[Clint]] puede leerlo.
--
+- [[Clint]] crea un increíble plan, el cual decidimos realizar.
 -
 - # Termina la noche de rol
