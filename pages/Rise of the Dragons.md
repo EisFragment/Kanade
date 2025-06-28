@@ -5,8 +5,9 @@ public:: true
 - ## Recordarle al gub
 	- LATER Flauta
 	- LATER Paruns sword encantada
-	- LATER Guantes encantados
+	- LATER Efecto [[Gloves of Soul Catching]]
 	- LATER Efecto [[Winters Bite]]
+	- LATER Efecto [[Dolor Amarus]]
 	-
 -
 - [Foundry - Rise of the Dragons](http://really-nowhere.gl.at.ply.gg:16595/join)
