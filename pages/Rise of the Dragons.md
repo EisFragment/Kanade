@@ -21,6 +21,18 @@ public:: true
 - [Foundry - Rise of the Dragons](http://really-nowhere.gl.at.ply.gg:16595/join)
 - ## Journal
   id:: 685b8792-fff8-4488-82b9-efe4c725ee95
+	- [[La cara se da mutuamente]]
+	- [[Dragon de arena]]
+	- [[Por qué me hace estas preguntas?]]
+	- [["Gawain"]]
+	- [["Charlie"]]
+	- [[Por las montañas]]
+	- [[I am my own master now]]
+	- [[Manuel dice]]
+	- [[Sábado de Rol]]
+	- [[Clint muere - La Película]]
+	- [[El regreso de Bu-Ho]]
+	- [[Ciudad Goblin y Hamburgo]]
 	- [[Desde el inicio hasta antes del 25 de enero]]
 	- [[Sesión 25 de enero]]
 	- [[Desde después del 25 de enero hasta el 24 de abril]]
@@ -33,18 +45,6 @@ public:: true
 	- [[Pos-fiesta de heroes]]
 	- [[Ayudando refugiados]]
 	- [[Amenazas de muerte]]
-	- [[Ciudad Goblin y Hamburgo]]
-	- [[El regreso de Bu-Ho]]
-	- [[Clint muere - La Película]]
-	- [[Sábado de Rol]]
-	- [[Manuel dice]]
-	- [[I am my own master now]]
-	- [[Por las montañas]]
-	- [["Charlie"]]
-	- [["Gawain"]]
-	- [[Por qué me hace estas preguntas?]]
-	- [[Dragon de arena]]
-	- [[La cara se da mutuamente]]
 - ## Extras
 	- [[Elliot Witt - El peligro de Tijuana]]
 	-
