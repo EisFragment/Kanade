@@ -2,7 +2,8 @@ public:: true
 
 - Presumiblemente la primer noche de rol de nuestra campaña ocurrió el [26 de Mayo del 2023]([[2023_05_26]]).
 -
-- ## Recordarle al gub
+- ## Recordarle al Gub
+	- LATER El sujeto
 	- LATER [[Tartarus]]
 		- LATER Escudo
 		- LATER Kit de precisión
