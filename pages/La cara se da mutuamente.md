@@ -20,7 +20,8 @@ public:: true
 - Más adelante nos encontramos con el resto, estaban en una puerta cerrada, la cual está cerrada hasta que derrotemos al guardian.
 - [[Everest]] se no quiso participar (se fué), [[Pedrin]] y [Syeriy]([[Syeriy Jut]]) están indispuestos.
 - Cuando [[Clint]] estaba por leer la invocación del guardian cuando se escuchó un gran ruido en la puerta, [Syeriy]([[Syeriy Jut]]) corrió hacia allá y se encontró con [[Everest]] apuntándole a [[Lacie]].
-- [[Lacie]] habia logrado
+- [[Lacie]] logró burlar a nuestros compañeros, pero no pudo evitar la obvia trampa justo después de la entrada, así que nos dejó encerrados a todos.
+-
 -
 -
 -
