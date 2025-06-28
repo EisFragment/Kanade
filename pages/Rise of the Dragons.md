@@ -21,6 +21,7 @@ public:: true
 - [Foundry - Rise of the Dragons](http://really-nowhere.gl.at.ply.gg:16595/join)
 - ## Journal
   id:: 685b8792-fff8-4488-82b9-efe4c725ee95
+	- [[Pendiente]]
 	- [[La cara se da mutuamente]]
 	- [[Dragon de arena]]
 	- [[Por qué me hace estas preguntas?]]
