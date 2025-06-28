@@ -25,7 +25,8 @@ public:: true
 - Todos se ponen en posición, [[Clint]] recita las palabras, estas invocan un **dracolich**.
 - El **dracolich** usó **3** resistencias legendarias y más cosas para aguantar, mató a más de la mitad.
 - [[Clint]] revive, con su único *scroll de revivify*, a [Syeriy]([[Syeriy Jut]]), [Luz]([[Luz Sunniva]]) y [[Wall-E]] continúan muertos.
-- [Vittorio]([[Vittorio Casano]]) decide intentar salvar a [Luz]([[Luz Sunniva]]), así que corre a la sala del tesoro para buscar
+- [Vittorio]([[Vittorio Casano]]) decide intentar salvar a [Luz]([[Luz Sunniva]]), así que corre a la sala del tesoro para buscar algo que la pueda ayudar.
+- Él corre, al llegar a la habitación ve pedestales, cada uno con lo que parecen ser increíbles elecciones, el elige lo que se ve como un **scroll**.
 -
 -
 -
