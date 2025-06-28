@@ -6,6 +6,7 @@ public:: true
 	- LATER Flauta
 	- LATER Paruns sword encantada
 	- LATER Guantes encantados
+	- LATER Efecto [[Winters Bite]]
 	-
 -
 - [Foundry - Rise of the Dragons](http://really-nowhere.gl.at.ply.gg:16595/join)
