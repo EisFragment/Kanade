@@ -14,7 +14,8 @@ public:: true
 - Llegan [[Six]] y [Gustavo]([[Jon Snow]]), este ultimo también usó el fuego. Además nos dicen que completaron el otro **puzzle**.
 - Al volver al templo encuentran el *templo*  abierto, en una de las paredes vemos una nota, esta decía: "[Luz]([[Luz Sunniva]]) vió el tiemplo y corrió hacia el, no la pude detener. -Pedrin".
 - Decidimos entrar con precaución, abrirlo fue muy fácil como para que no lo hubieran hecho antes. [Gustavo]([[Jon Snow]]) y [Six] se quedaron a hacer guardia.
-- Cuando íbamos entrando recordamos que ninguno ha descansado, y tenemos un [reloj curioso]([[Stopwatch]]), con el cual podemos descansar rapido, volvemos y
+- Cuando íbamos entrando recordamos que ninguno ha descansado, y tenemos un [reloj curioso]([[Stopwatch]]), con el cual podemos descansar rápido, volvemos y descansamos todos juntos.
+- Caminando por el interior del templo encontramos muchos grabados *draconicos*, habia imagenes de []([[Tiamat]])
 -
 -
 -
