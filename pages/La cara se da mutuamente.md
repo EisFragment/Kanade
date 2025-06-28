@@ -17,6 +17,8 @@ public:: true
 - Cuando íbamos entrando recordamos que ninguno ha descansado, y tenemos un [reloj curioso]([[Stopwatch]]), con el cual podemos descansar rápido, volvemos y descansamos todos juntos.
 - Caminando por el interior del templo encontramos muchos grabados *draconicos*, había murales de [[Tiamat]] y **otros dragones**.
 - "Hace mucho tiempo en el amanecer de este mundo. Dos hermanos pelearon mano a mano. Unidos, vencieron y sellaron a --------. El mundo vivió una era de paz bajo el mando de los dragones. -----------------------------. -----------------------------." Logró traducir [[Clint]].
+- Más adelante nos encontramos con el resto, estaban en una puerta cerrada, la cual está cerrada hasta que derrotemos al guardian.
+- Everest se no quiso p
 -
 -
 -
