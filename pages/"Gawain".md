@@ -10,9 +10,6 @@ public:: true
 - > [!example] Sientes como que todo es sueño
   > [Vittorio]([[Vittorio Casano]]) tiene unas visiones raras de unas ventanas con sus compañeros y una con [su tío]([[Elandor Casano]]).
 - Comienza el combate con un grito de uno de los atacantes proclamando que esta será la recompensa más fácil que ha cobrado. A esto sigue la sutil risilla de un diablillo. [[Syeriy Jut#”Charlie”|”Charlie”]] demostró quien era el viejo, [[Gawain]] ayudó mientras estaba confundido, solo se dejó uno vivo para poder hacer preguntas. Después del combate [[Syeriy Jut#”Charlie”|”Charlie”]] desgració cuerpos y [Luz]([[Luz Sunniva]]) se enojó, [[Gawain]] prometió ayudarnos por un desayuno.
-- > [!important] Recordar
-  > Escudo de [[Tartarus]]. Kit de precisión. Gancho.
-  > Ahora los NPC tienen ultimate.
 - [Luz]([[Luz Sunniva]]) decidió regalar información del grupo, discutimos y al final todos durmieron. Al siguiente día en el bar [[Syeriy Jut#”Charlie”|”Charlie”]] se puso bien mala copa mientras los otros discuten sobre los anillos.
 - Después de que su borrachera fuera purificada se pusieron a hablar y a discutir porque quieren unirse temporalmente al equipo, [[Tartarus]] quiere *purificar* a los seguidores radicales de la diosa y [Luz]([[Luz Sunniva]]) quiere reunir los fragmentos de la diosa y traerla de vuelta.
 - En un momento cualquiera [[Tartarus]] menciona a [Jayden]([[Jayden Bright]]) y las cosas se calientan, pero solo eran memorias difusas que llegan a su mente de vez en cuando. [[Everest]] decide traerlos a ambos.

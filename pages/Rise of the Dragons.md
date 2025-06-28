@@ -3,6 +3,7 @@ public:: true
 - Presumiblemente la primer noche de rol de nuestra campaña ocurrió el [26 de Mayo del 2023]([[2023_05_26]]).
 -
 - ## Recordarle al gub
+	- Pila portátil, Regalos Santa Claus, Ninguno de los dos weyes que van a ser reyes se quiere poner los pantalonsitos.
 	- LATER Luz guante Clint tira luz
 	- LATER Paruns sword encantada
 	- LATER Efecto [[Winters Bite]]
