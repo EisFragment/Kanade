@@ -7,5 +7,5 @@ public:: true
   [Siguiente noche de rol]([[]])
   ---
 - # Niebla
-- Nos
+- Parados entre estatuas
 - # Termina la noche de rol
